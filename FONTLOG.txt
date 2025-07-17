@@ -1,0 +1,17 @@
+FONTLOG for MyHands
+
+This file provides information about the MyHands font.
+
+Font Family: MyHands  
+Designer: Oldman  
+License: SIL Open Font License v1.1
+
+Description:  
+MyHands is a personal handwritten Tamil font inspired by the natural penmanship of an old farmer. Created entirely using a mouse, it captures a rustic, human feel — perfect for casual writing, storytelling, education, and cultural projects.
+
+Acknowledgments:  
+Created with care by Oldman. Special thanks to those who keep our native scripts and stories alive.
+
+ChangeLog:
+- Version 1.0 – 2025-07-17 – Initial release under the SIL Open Font License.
+
